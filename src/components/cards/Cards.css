@@ -1,0 +1,8 @@
+.cards {
+  display: flex;
+  gap: 1rem;
+}
+
+.parent-container {
+  width: 100%;
+}
