@@ -1,0 +1,10 @@
+.maindash {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  /* gap: 3rem; */
+}
+
+.parent-container {
+  width: 100%;
+}
